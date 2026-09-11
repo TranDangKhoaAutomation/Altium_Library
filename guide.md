@@ -170,6 +170,6 @@ nếu thư viện chưa hiện, hãy tắt altium rồi mở lại.
 
 ## bản quyền
 
-copyright © 2026 trần đăng khoa / TranDangKhoaAutomation. all rights reserved.
+copyright © 2026 Trần Đăng Khoa / TranDangKhoaAutomation. all rights reserved.
 
 toàn bộ tài liệu, thư viện, symbol, footprint, nội dung hướng dẫn và các file trong repository này thuộc quyền sở hữu của trần đăng khoa / TranDangKhoaAutomation. không được sao chép, phân phối lại, bán lại, đăng tải lại hoặc sử dụng thương mại nếu chưa được cho phép bằng văn bản.
