@@ -9,7 +9,7 @@
 ![Schematic Library](https://img.shields.io/badge/Schematic-Library-6F42C1?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-All_Rights_Reserved-RED?style=for-the-badge)
 
-**Owner:** Tran Dang Khoa Technology  
+**Owner:** TranDangKhoaAutomation  
 **Author:** Trần Đăng Khoa
 
 </div>
@@ -33,7 +33,7 @@ This repository is intended for long-term use in electronics, embedded systems, 
 - Component search keywords for quick placement.
 - Gerber and NC Drill export guide for PCB manufacturing.
 - PCB manufacturing checklist before sending files to a board house.
-- Clear ownership and copyright under **Tran Dang Khoa Technology**.
+- Clear ownership and copyright under **TranDangKhoaAutomation**.
 
 ---
 
@@ -56,7 +56,7 @@ Altium_Library/
 ### 1. Clone This Repository
 
 ```bash
-git clone https://github.com/TranDangKhoaTechnology/Altium_Library.git
+git clone https://github.com/TranDangKhoaAutomation/Altium_Library.git
 cd Altium_Library
 ```
 
@@ -207,13 +207,13 @@ File > Fabrication Outputs > NC Drill Files
 
 ## Author
 
-**Tran Dang Khoa Technology**  
+**TranDangKhoaAutomation**  
 Created and maintained by **Trần Đăng Khoa**.
 
 ---
 
 ## License
 
-Copyright © 2026 **Trần Đăng Khoa / TranDangKhoaTechnology**. All Rights Reserved.
+Copyright © 2026 **Trần Đăng Khoa / TranDangKhoaAutomation**. All Rights Reserved.
 
-This repository is the property of **Trần Đăng Khoa / TranDangKhoaTechnology**. Copying, redistributing, reselling, republishing, modifying for redistribution, or using this repository for commercial purposes without written permission is not allowed.
+This repository is the property of **Trần Đăng Khoa / TranDangKhoaAutomation**. Copying, redistributing, reselling, republishing, modifying for redistribution, or using this repository for commercial purposes without written permission is not allowed.
